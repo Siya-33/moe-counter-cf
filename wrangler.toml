@@ -1,4 +1,5 @@
 name = "moe-counter-cf"
+main = "dist/worker"
 type = "javascript"
 account_id = "80725acb026151ff25ee051ed37d13a0"
 zone_id = "5d676d5e89ee0ea4a3799182196da5d2"
